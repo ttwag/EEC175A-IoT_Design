@@ -1,4 +1,4 @@
-# EEC130AB - Internet of Things
+# EEC175A - Internet of Things
 
 This repository contains lecture notes and a mini-lab of the EEC175A from the University of California, Davis. The series covers the fundamental knowledge of Internet of Things (IoT) devices and how they interface with the physical world and transmit information to the end user.
 
