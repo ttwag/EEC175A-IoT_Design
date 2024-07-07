@@ -2,6 +2,8 @@
 
 This repository contains lecture notes and a mini-lab of the EEC175A from the University of California, Davis. The series covers the fundamental knowledge of Internet of Things (IoT) devices and how they interface with the physical world and transmit information to the end user.
 
+![iot2](https://github.com/ttwag/EEC175A-IoT_Design/assets/113254272/984bfd7d-26f6-4ca5-8669-ed7270a4f920)
+
 ## Course Content
 
 **EEC175A**
